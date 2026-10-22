@@ -8,8 +8,9 @@ version = "0.1.0"
 description = "Autonomous Spend Policy & Invoice Reconciliation Agent with HITL Guardrails and Evaluation Benchmark Suite"
 readme = "README.md"
 requires-python = ">=3.10"
+license = { text = "MIT" }
 authors = [
-    { name = "Moss FinOps Engineering" }
+    { name = "Shalom (@Shalom2212)" }
 ]
 dependencies = [
     "pydantic>=2.0.0",

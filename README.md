@@ -1,5 +1,6 @@
 # moss-fin-agent: Autonomous Spend Policy & Invoice Reconciliation Agent
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![MCP Native](https://img.shields.io/badge/MCP-Native-green.svg)](https://modelcontextprotocol.io)
 [![Pydantic v2](https://img.shields.io/badge/Pydantic-v2-orange.svg)](https://docs.pydantic.dev/)
@@ -329,6 +330,7 @@ moss-fin-agent/
 
 ---
 
-## 8. License
+## 8. Author & License
 
-Apache 2.0. Copyright (c) 2026 Moss FinOps Engineering.
+- **Architect & Author**: Shalom ([@Shalom2212](https://github.com/Shalom2212))
+- **License**: [MIT License](LICENSE) &copy; 2026 Shalom. Permissive for open inspection, benchmarking, and corporate adaptation.
